@@ -1,5 +1,9 @@
 a=10
 b=20
-print(a+b)
 c=30
-print(c+a+b)
+d=True
+print(type("python"))
+print(type(a))
+print(type(10.30))
+print(type(d))
+print(type(3+4j))
