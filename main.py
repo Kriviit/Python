@@ -1,1 +1,0 @@
-print("welecome to krivi it institute")
