@@ -1,12 +1,12 @@
-# # list
-# a=[1,2,3,True,20.7,"python",3,4,5,6,7,8,9,3,4,5]
-# print(a)
-# print(a[-2])
-# #len
-# print(a[len(a)-1])
-# #mutablity
-# a[5]="Java"
-# print(a)
+# list
+a=[1,2,3,True,20.7,"python",3,4,5,6,7,8,9,3,4,5]
+print(a)
+print(a[-2])
+#len
+print(a[len(a)-1])
+#mutablity
+a[5]="Java"
+print(a)
 
 #tuple
 
