@@ -8,6 +8,22 @@
 # print(add(10,20))
 # print(add(10,40))
 
-iseven=lambda x:x%2==0
-print(iseven(10))
-print(iseven(11))
+# is_even=lambda x:x%2==0
+# print(is_even(10))
+# print(is_even(11))
+
+# def is_even(a):
+#     if a%2==0:
+#         return True
+#     else:
+#         return False
+    
+
+# def is_even(a):
+#     if a%2==0:
+#         return True
+#     return False
+
+
+# def is_even(a):
+#     return a%2==0
