@@ -39,8 +39,8 @@
 
 # print(a.reverse())
 # print(a)
-a=[1,2,3,4,5]
-b=a.copy()
-a[4]=100
-print(b)
-print(a)
+# a=[1,2,3,4,5]
+# b=a[:] or a.copy()
+# a[4]=100
+# print(b)
+# print(a)

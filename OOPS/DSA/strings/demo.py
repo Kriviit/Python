@@ -7,4 +7,4 @@ print(type(c))
 
 a="python"
 print(a[0])
-a[0]="p"
+# a[0]="p"
