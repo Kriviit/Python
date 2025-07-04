@@ -1,0 +1,49 @@
+student_id,first_name,last_name,email,phone,address,city,state,zip_code,enrollment_date,program,gpa,status
+1001,John,Smith,john.smith@email.com,555-0101,123 Main St,Springfield,IL,62701,2023-08-15,Computer Science,3.5,Active
+1002,Sarah,Johnson,sarah.johnson@email.com,555-0102,456 Oak Ave,Chicago,IL,60601,2023-08-16,Mathematics,3.8,Active
+1003,Michael,Brown,michael.brown@email.com,555-0103,789 Pine Rd,Peoria,IL,61602,2023-08-17,Engineering,3.2,Active
+1001,John,Smith,john.smith@email.com,555-0101,123 Main St,Springfield,IL,62701,2023-08-15,Computer Science,3.5,Active
+1004,Emily,Davis,emily.davis@email.com,555-0104,321 Elm St,Rockford,IL,61101,2023-08-18,Biology,3.9,Active
+1005,David,Wilson,david.wilson@email.com,555-0105,654 Maple Dr,Naperville,IL,60540,2023-08-19,Physics,3.4,Active
+1002,Sarah,Johnson,sarah.johnson@email.com,555-0102,456 Oak Ave,Chicago,IL,60601,2023-08-16,Mathematics,3.8,Active
+1006,Jessica,Miller,jessica.miller@email.com,555-0106,987 Cedar Ln,Aurora,IL,60502,2023-08-20,Chemistry,3.6,Active
+1007,Christopher,Taylor,chris.taylor@email.com,555-0107,147 Birch St,Joliet,IL,60431,2023-08-21,Business,3.1,Active
+1008,Amanda,Anderson,amanda.anderson@email.com,555-0108,258 Walnut Ave,Elgin,IL,60120,2023-08-22,Psychology,3.7,Active
+1003,Michael,Brown,michael.brown@email.com,555-0103,789 Pine Rd,Peoria,IL,61602,2023-08-17,Engineering,3.2,Active
+1009,Ryan,Thomas,ryan.thomas@email.com,555-0109,369 Spruce St,Waukegan,IL,60085,2023-08-23,Sociology,3.0,Active
+1010,Jennifer,Jackson,jennifer.jackson@email.com,555-0110,741 Ash Dr,Champaign,IL,61820,2023-08-24,English,3.8,Active
+1001,John,Smith,john.smith@email.com,555-0101,123 Main St,Springfield,IL,62701,2023-08-15,Computer Science,3.6,Active
+1011,Matthew,White,matthew.white@email.com,555-0111,852 Hickory Rd,Decatur,IL,62521,2023-08-25,History,3.3,Active
+1012,Lisa,Harris,lisa.harris@email.com,555-0112,963 Poplar Ave,Bloomington,IL,61701,2023-08-26,Art,3.5,Active
+1004,Emily,Davis,emily.davis@email.com,555-0104,321 Elm St,Rockford,IL,61101,2023-08-18,Biology,3.9,Inactive
+1013,Kevin,Martin,kevin.martin@email.com,555-0113,159 Willow St,Moline,IL,61265,2023-08-27,Music,3.2,Active
+1014,Nicole,Garcia,nicole.garcia@email.com,555-0114,357 Dogwood Dr,Rock Island,IL,61201,2023-08-28,Theatre,3.4,Active
+1015,Brian,Rodriguez,brian.rodriguez@email.com,555-0115,468 Magnolia Ave,Quincy,IL,62301,2023-08-29,Political Science,3.1,Active
+1002,Sarah,Johnson,sarah.johnson@email.com,555-0102,456 Oak Ave,Chicago,IL,60601,2023-08-16,Mathematics,3.9,Active
+1016,Rachel,Lewis,rachel.lewis@email.com,555-0116,579 Sycamore St,Galesburg,IL,61401,2023-08-30,Philosophy,3.6,Active
+1017,Justin,Lee,justin.lee@email.com,555-0117,681 Chestnut Rd,Carbondale,IL,62901,2023-08-31,Geology,3.3,Active
+1018,Megan,Walker,megan.walker@email.com,555-0118,792 Beech Ave,DeKalb,IL,60115,2023-09-01,Anthropology,3.7,Active
+1005,David,Wilson,david.wilson@email.com,555-0105,654 Maple Dr,Naperville,IL,60540,2023-08-19,Physics,3.4,Active
+1019,Gregory,Hall,gregory.hall@email.com,555-0119,814 Locust St,Normal,IL,61761,2023-09-02,Economics,3.0,Active
+1020,Stephanie,Allen,stephanie.allen@email.com,555-0120,925 Hawthorn Dr,Urbana,IL,61801,2023-09-03,Linguistics,3.8,Active
+1021,Timothy,Young,timothy.young@email.com,555-0121,136 Redwood Ave,Pekin,IL,61554,2023-09-04,Communications,3.2,Active
+1007,Christopher,Taylor,chris.taylor@email.com,555-0107,147 Birch St,Joliet,IL,60431,2023-08-21,Business,3.1,Active
+1022,Kimberly,King,kimberly.king@email.com,555-0122,247 Cypress St,Freeport,IL,61032,2023-09-05,Journalism,3.5,Active
+1023,Andrew,Wright,andrew.wright@email.com,555-0123,358 Juniper Rd,Danville,IL,61832,2023-09-06,Finance,3.4,Active
+1001,John,Smith,john.smith@email.com,555-0101,123 Main St,Springfield,IL,62701,2023-08-15,Computer Science,3.5,Graduated
+1024,Michelle,Lopez,michelle.lopez@email.com,555-0124,469 Laurel Ave,Alton,IL,62002,2023-09-07,Marketing,3.1,Active
+1025,Daniel,Hill,daniel.hill@email.com,555-0125,571 Mulberry St,Belleville,IL,62220,2023-09-08,Human Resources,3.6,Active
+1026,Christina,Green,christina.green@email.com,555-0126,682 Sumac Dr,Centralia,IL,62801,2023-09-09,Information Technology,3.3,Active
+1008,Amanda,Anderson,amanda.anderson@email.com,555-0108,258 Walnut Ave,Elgin,IL,60120,2023-08-22,Psychology,3.7,Active
+1027,Joseph,Adams,joseph.adams@email.com,555-0127,793 Elderberry Rd,Effingham,IL,62401,2023-09-10,Criminal Justice,3.2,Active
+1028,Heather,Nelson,heather.nelson@email.com,555-0128,815 Buttonwood Ave,Herrin,IL,62948,2023-09-11,Social Work,3.8,Active
+1029,Charles,Baker,charles.baker@email.com,555-0129,926 Forsythia St,Jacksonville,IL,62650,2023-09-12,Education,3.0,Active
+1010,Jennifer,Jackson,jennifer.jackson@email.com,555-0110,741 Ash Dr,Champaign,IL,61820,2023-08-24,English,3.8,Active
+1030,Ashley,Gonzalez,ashley.gonzalez@email.com,555-0130,137 Honeysuckle Dr,Kankakee,IL,60901,2023-09-13,Nursing,3.9,Active
+1031,Jason,Carter,jason.carter@email.com,555-0131,248 Lilac Ave,Marion,IL,62959,2023-09-14,Pre-Med,3.7,Active
+1032,Melissa,Mitchell,melissa.mitchell@email.com,555-0132,359 Azalea Rd,Mount Vernon,IL,62864,2023-09-15,Pharmacy,3.4,Active
+1015,Brian,Rodriguez,brian.rodriguez@email.com,555-0115,468 Magnolia Ave,Quincy,IL,62301,2023-08-29,Political Science,3.1,Active
+1033,Robert,Perez,robert.perez@email.com,555-0133,461 Camellia St,Ottawa,IL,61350,2023-09-16,Agriculture,3.3,Active
+1034,Angela,Roberts,angela.roberts@email.com,555-0134,572 Gardenia Dr,Paris,IL,61944,2023-09-17,Veterinary,3.5,Active
+1035,Steven,Turner,steven.turner@email.com,555-0135,683 Jasmine Ave,Pontiac,IL,61764,2023-09-18,Architecture,3.2,Active
+1012,Lisa,Harris,lisa.harris@email.com,555-0112,963 Poplar Ave,Bloomington,IL,61701,2023-08-26,Art,3.5,Active

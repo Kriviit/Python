@@ -1,0 +1,55 @@
+student_id,course_code,course_name,instructor,semester,grade,credit_hours,department
+1,CS101,Introduction to Programming,Dr. Smith,Fall 2023,A,3,Computer Science
+1,MATH201,Calculus II,Prof. Johnson,Fall 2023,B+,4,Mathematics
+1,ENG101,English Composition,Dr. Davis,Fall 2023,A-,3,English
+2,CS101,Introduction to Programming,Dr. Smith,Fall 2023,B,3,Computer Science
+2,MATH101,Calculus I,Prof. Wilson,Fall 2023,B-,4,Mathematics
+3,CS101,Introduction to Programming,Dr. Smith,Fall 2023,A,3,Computer Science
+3,MATH201,Calculus II,Prof. Johnson,Fall 2023,A,4,Mathematics
+3,PHYS101,Physics I,Dr. Brown,Fall 2023,A-,4,Physics
+5,CS101,Introduction to Programming,Dr. Smith,Fall 2023,F,3,Computer Science
+5,MATH101,Calculus I,Prof. Wilson,Fall 2023,D,4,Mathematics
+7,CS101,Introduction to Programming,Dr. Smith,Fall 2023,A+,3,Computer Science
+7,MATH201,Calculus II,Prof. Johnson,Fall 2023,A,4,Mathematics
+7,PHYS101,Physics I,Dr. Brown,Fall 2023,A,4,Physics
+7,CHEM101,Chemistry I,Dr. Taylor,Fall 2023,A-,4,Chemistry
+8,CS101,Introduction to Programming,Dr. Smith,Fall 2023,F,3,Computer Science
+10,CS101,Introduction to Programming,Dr. Smith,Fall 2023,B+,3,Computer Science
+10,MATH201,Calculus II,Prof. Johnson,Fall 2023,B,4,Mathematics
+12,CS102,Data Structures,Dr. Anderson,Fall 2023,A-,3,Computer Science
+12,MATH201,Calculus II,Prof. Johnson,Fall 2023,B+,4,Mathematics
+12,STAT101,Statistics,Prof. Miller,Fall 2023,A,3,Statistics
+15,CS101,Introduction to Programming,Dr. Smith,Fall 2023,B-,3,Computer Science
+15,MATH101,Calculus I,Prof. Wilson,Fall 2023,C+,4,Mathematics
+16,CS101,Introduction to Programming,Dr. Smith,Fall 2023,F,3,Computer Science
+17,CS101,Introduction to Programming,Dr. Smith,Fall 2023,A,3,Computer Science
+17,MATH201,Calculus II,Prof. Johnson,Fall 2023,A-,4,Mathematics
+17,PHYS101,Physics I,Dr. Brown,Fall 2023,B+,4,Physics
+20,CS101,Introduction to Programming,Dr. Smith,Fall 2023,C,3,Computer Science
+20,MATH101,Calculus I,Prof. Wilson,Fall 2023,C-,4,Mathematics
+22,CS101,Introduction to Programming,Dr. Smith,Fall 2023,F,3,Computer Science
+25,CS101,Introduction to Programming,Dr. Smith,Fall 2023,A,3,Computer Science
+25,MATH201,Calculus II,Prof. Johnson,Fall 2023,A,4,Mathematics
+25,PHYS101,Physics I,Dr. Brown,Fall 2023,A-,4,Physics
+25,CHEM101,Chemistry I,Dr. Taylor,Fall 2023,B+,4,Chemistry
+30,CS101,Introduction to Programming,Dr. Smith,Fall 2023,F,3,Computer Science
+35,CS101,Introduction to Programming,Dr. Smith,Fall 2023,A+,3,Computer Science
+35,MATH201,Calculus II,Prof. Johnson,Fall 2023,A,4,Mathematics
+35,PHYS101,Physics I,Dr. Brown,Fall 2023,A,4,Physics
+39,CS101,Introduction to Programming,Dr. Smith,Fall 2023,F,3,Computer Science
+40,CS101,Introduction to Programming,Dr. Smith,Fall 2023,A-,3,Computer Science
+40,MATH201,Calculus II,Prof. Johnson,Fall 2023,B+,4,Mathematics
+41,CS102,Data Structures,Dr. Anderson,Spring 2024,A,3,Computer Science
+41,MATH301,Linear Algebra,Prof. Garcia,Spring 2024,B+,3,Mathematics
+42,CS102,Data Structures,Dr. Anderson,Spring 2024,A-,3,Computer Science
+42,STAT201,Advanced Statistics,Prof. White,Spring 2024,A,3,Statistics
+43,CS201,Algorithms,Dr. Lee,Spring 2024,B+,3,Computer Science
+43,MATH301,Linear Algebra,Prof. Garcia,Spring 2024,A-,3,Mathematics
+44,CS102,Data Structures,Dr. Anderson,Spring 2024,B,3,Computer Science
+45,CS201,Algorithms,Dr. Lee,Spring 2024,A,3,Computer Science
+45,MATH301,Linear Algebra,Prof. Garcia,Spring 2024,A,3,Mathematics
+46,CS102,Data Structures,Dr. Anderson,Spring 2024,C+,3,Computer Science
+47,CS201,Algorithms,Dr. Lee,Spring 2024,A-,3,Computer Science
+48,CS102,Data Structures,Dr. Anderson,Spring 2024,B-,3,Computer Science
+49,CS201,Algorithms,Dr. Lee,Spring 2024,B,3,Computer Science
+50,CS102,Data Structures,Dr. Anderson,Spring 2024,A,3,Computer Science
